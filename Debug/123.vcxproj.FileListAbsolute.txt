@@ -1,0 +1,2 @@
+C:\Projects\123\Debug\123.exe
+C:\Projects\123\Debug\123.pdb
